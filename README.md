@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/shameer___s_r_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shameer___s_r_b" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shameer-babu-2755a62a1/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn Profile" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
 
 
