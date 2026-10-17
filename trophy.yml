@@ -22,7 +22,7 @@ jobs:
         with:
           options: 'username=srbshameer098&theme=tokyonight&column=4&row=2&no-frame=true&no-bg=true'
           path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Commit trophy SVG
         run: |
