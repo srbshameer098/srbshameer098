@@ -18,7 +18,7 @@ Building beautiful, scalable, and user-focused mobile applications with Flutter.
 
 ## 💫 About Me
 
-- 🔭 Currently working on **Onlypass**
+- 🔭 Currently working on **Manara**
 - 🌱 Currently learning and exploring **new things in Flutter**
 - 📱 Focused on **Flutter, Dart, and BLoC state management**
 - ⚙️ Experienced with **REST API integration, Firebase, Node.js, and MongoDB**
