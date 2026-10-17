@@ -146,11 +146,6 @@ A vehicle inspection application built to support inspection workflows.
 
 </div>
 '''
-if old not in readme:
-    raise ValueError("Analytics section not found; README left unchanged.")
-path.write_text(readme.replace(old, new), encoding="utf-8")
-print(f"Updated analytics, trophies, badges, and contribution graph in {path}")
----
 
 <div align="center">
 
