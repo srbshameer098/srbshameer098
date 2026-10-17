@@ -121,11 +121,7 @@ A vehicle inspection application built to support inspection workflows.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srbshameer098&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
-
-</div>
+![GitHub Trophies](./profile/trophy.svg)
 
 ## 🏅 Profile Badges
 
