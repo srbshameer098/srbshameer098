@@ -50,6 +50,8 @@ Building beautiful, scalable, and user-focused mobile applications with Flutter.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🏢 Onlypass
@@ -82,12 +84,20 @@ A vehicle inspection application built to support inspection workflows.
 
 > Some project details may be simplified. Only publish company or team project information that you have permission to share.
 
-## 📈 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=srbshameer098&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shameer's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbshameer098&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<a href="https://github.com/srbshameer098">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srbshameer098&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shameer's GitHub stats" />
+</a>
+<a href="https://github.com/srbshameer098">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbshameer098&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</a>
+
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=srbshameer098&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -106,4 +116,4 @@ A vehicle inspection application built to support inspection workflows.
 
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({path.stat().st_size} bytes)")
+print(f"Created corrected README: {path}")
