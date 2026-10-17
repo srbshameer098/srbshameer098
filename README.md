@@ -107,23 +107,6 @@ A vehicle inspection application built to support inspection workflows.
 <div align="center">
 
 <a href="https://github.com/srbshameer098">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srbshameer098&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shameer's GitHub stats" />
-</a>
-<a href="https://github.com/srbshameer098">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbshameer098&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</a>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=srbshameer098&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-'''
-new = '''## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/srbshameer098">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=srbshameer098&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Shameer's GitHub stats" />
 </a>
 <a href="https://github.com/srbshameer098">
@@ -175,9 +158,4 @@ print(f"Updated analytics, trophies, badges, and contribution graph in {path}")
 
 *Thanks for visiting my profile!*
 
-</div>
-'''
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Updated {path} with Manara as the current project and four featured projects.")
